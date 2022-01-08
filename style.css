@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(253, 244, 244);
+}
+.main{
+    text-align: center;
+}
+
+.container{
+    height: 200px;
+    width: 200px;
+    background: linear-gradient(45deg,rgb(87, 86, 86));
+    margin: auto;
+    box-shadow: 0 0 10px black;
+
+    
+    
+    
+}
+#btn{
+    background-color: rgb(245, 240, 240);
+
+}
